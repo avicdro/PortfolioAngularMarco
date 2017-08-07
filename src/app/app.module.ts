@@ -17,6 +17,7 @@ import { ActualStateComponent } from './actual-state/actual-state.component';
 import { GoalsComponent } from './goals/goals.component';
 import { FooterEndComponent } from './footer-end/footer-end.component';
 import { AppComponent } from './app.component';
+import { NavBarComponent } from './nav-bar/nav-bar.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { AppComponent } from './app.component';
     MyCodeComponent,
     ActualStateComponent,
     GoalsComponent,
-    FooterEndComponent
+    FooterEndComponent,
+    NavBarComponent
   ],
   imports: [
     BrowserModule,
