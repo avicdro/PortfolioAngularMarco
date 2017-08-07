@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.title-p1{
+    font-family: Pacifico;  
+}
+.title-p2{
+    font-family: Pridi;
+}
+.contenido-p3{
+    font-family: Roboto;
+}
