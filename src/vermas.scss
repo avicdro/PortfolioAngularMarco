@@ -1,9 +1,9 @@
 @import '~@angular/material/theming'; 
 @include mat-core();
 
-$m1: mat-palette($mat-grey);   
+$m1: mat-palette($mat-grey, 800);   
 $m2: mat-palette($mat-lime, A700, 300, A400);
-$m3: mat-palette($mat-light-green, A700);
+$m3: mat-palette($mat-light-green);
 
 $VerMas12: mat-light-theme($m1, $m2, $m3);
 

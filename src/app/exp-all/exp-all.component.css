@@ -1,0 +1,27 @@
+.caja_completa{
+    width: 100%;
+    height: 2000px;
+}
+.caja_descripcion{
+    height: 100%;
+    border: 2px solid black;
+    background-color: blanchedalmond;
+}
+.etiqueta{
+    width: 150px;
+    height: 100px;
+}
+.descripcion{
+    width: 200px;
+    height: 300px;
+    font-size: 25px;
+}
+.caja_barra{
+    width: 50px;
+    background-color: grey;
+}
+.barra{
+    width: 80%;
+    border-bottom: 24px solid red;
+    background-color: lightgrey;
+}

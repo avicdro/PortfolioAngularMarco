@@ -3,9 +3,17 @@
     height: 40rem;
     margin: 0;
     background-color: #424242;
-    color: #fff;
+    color: #ffffff;
 }
 .imgp1{
     width: 50%;
     height: 50%;
+}
+.btnBajar{
+    margin-top: -12%;
+}
+.btnBajar:focus{
+    color: #000000 !important; 
+    background-color: #00c853 !important;
+    border-radius: 0;
 }

@@ -1,0 +1,11 @@
+.btnNav{
+    height: 100%;
+}
+.btnNav:focus{
+    color: #fff !important; 
+    background-color: #424242 !important;
+    border-radius: 0;
+}
+.espacio {
+  flex: 1 1 auto;
+}

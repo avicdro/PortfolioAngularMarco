@@ -9,7 +9,6 @@ import { MaterializeModule } from 'angular2-materialize';
 
 import { MySelfComponent } from './my-self/my-self.component';
 import { AcademicFormationComponent } from './academic-formation/academic-formation.component';
-import { ExperienceComponent } from './experience/experience.component';
 import { PersonalWorksComponent } from './personal-works/personal-works.component';
 import { ExpAllComponent } from './exp-all/exp-all.component';
 import { MyCodeComponent } from './my-code/my-code.component';
@@ -24,7 +23,6 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
     AppComponent,
     MySelfComponent,
     AcademicFormationComponent,
-    ExperienceComponent,
     PersonalWorksComponent,
     ExpAllComponent,
     MyCodeComponent,
